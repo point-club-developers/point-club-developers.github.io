@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.rakuten.pointclub.android",
+    "sha256_cert_fingerprints":
+    ["26:65:81:84:12:08:7A:70:6C:D7:04:CA:DE:A3:D0:76:40:BA:66:F6:F3:3A:0E:01:15:5C:F5:EB:50:0C:8E:1F"]
+  }
+}]
